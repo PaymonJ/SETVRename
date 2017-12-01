@@ -1,0 +1,6 @@
+c:\users\paymon\source\repos\SETVRename\SETVRename\bin\Release\SETVRename.exe.config
+c:\users\paymon\source\repos\SETVRename\SETVRename\bin\Release\SETVRename.exe
+c:\users\paymon\source\repos\SETVRename\SETVRename\bin\Release\SETVRename.pdb
+c:\users\paymon\source\repos\SETVRename\SETVRename\obj\Release\SETVRename.csproj.CoreCompileInputs.cache
+c:\users\paymon\source\repos\SETVRename\SETVRename\obj\Release\SETVRename.exe
+c:\users\paymon\source\repos\SETVRename\SETVRename\obj\Release\SETVRename.pdb
