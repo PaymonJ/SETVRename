@@ -1,5 +1,5 @@
 # SETVRename
-Renames TV show files to Season/Episode format (S0xE0y).
+Renames TV show files to Season/Episode format.
 
 ## Preface
 
