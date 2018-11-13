@@ -38,13 +38,12 @@ Which meant I had to manually go update the filename of each show one by one - s
 ## Installation
 
 1. Ensure you have the proper .NET redistributables installed on your PC
-1. Clone this repository
-1. Copy \SETVRename\SETVRename\bin\Release\SETVRename.exe to wherever you please
+2. download this repository to desired folder
+
 
 ## Usage
 
 1. Place your video files in order within a folder titled `Season X` (*X* being the season that this group of episodes belong to).
-  * The program takes a look at the path and updates the file titles according to what the value of *X* is in the containing folder
-1. Run `SETVRename.exe "/path/to/Season X"`
-  * The program then alphabetically runs through all the files in `/path/to/Season X`, and renames the files according to the value of *X*, and the episode number
+2. Run `SETVRename.exe "/path/to/Season X"`
+  * The program then  runs through all the files in `/path/to/Season X`, and renames the files to `SXEY`, where `X` is the season number in the containing folder name, and Y is it's position in alphabetical order
 
