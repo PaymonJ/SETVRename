@@ -47,5 +47,5 @@ This application helps the user to convert the file names from DVD's naming form
 
 1. Place your video files in order within a folder titled `Season X` (*X* being the season that this group of episodes belong to).
 2. Run `SETVRename.exe "/path/to/Season X"`
-  * The program then  runs through all the files in `/path/to/Season X`, and renames the files to `SXEY`, where `X` is the season number in the containing folder name, and Y is it's position in alphabetical order
+  * The program then renames all the files in `/path/to/Season X` to `SXEY`, where `X` is the season number in the containing folder name, and `Y` is the files's position in sorted alphabetical order within the folder.
 
