@@ -3,11 +3,13 @@ Renames TV show files to Season/Episode format.
 
 ## Preface
 
-I created this tool to help assist me in archiving my TV shows from DVD and Blu-Ray. To name my files properly, I decided to use [theRenamer](http://www.therenamer.com); however, it requires the files to be in the following format:
+This application was created to assist [theRenamer](http://www.therenamer.com) in archiving TV shows from DVD and Blu-Ray by renaming the files to the required input format.
+
+The required file naming format for theRenamer:
 
 ```
-Show
-    Season 1
+Show/
+    Season 1/
         S01E01.mp4
         S01E02.mp4
         S01E03.mp4
@@ -18,11 +20,11 @@ Show
         S01E08.mp4
 ```
 
-But after archiving the files, I was always left with something like this:
+File naming format from DVDs:
 
 ```
-Show
-    Season 1
+Show/
+    Season 1/
         title00.mp4
         title01.mp4
         title02.mp4
@@ -33,7 +35,7 @@ Show
         title07.mp4
 ```
 
-Which meant I had to manually go update the filename of each show one by one - so, I created this tool.
+This application helps the user to convert the file names from DVD's naming format to the naming format required by the Renamer.
 
 ## Installation
 
